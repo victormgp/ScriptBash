@@ -37,5 +37,6 @@ then
 
 else
     echo "El fichero no se puede descomprimir o ha indicado una ruta inválida"
+    exit 1
 fi
 
